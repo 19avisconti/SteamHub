@@ -3,7 +3,7 @@
 A macOS menu-bar app that fires a Steam achievement notification — artwork, Arial type,
 and the unlock chime — whenever someone pushes to a repository you have cloned locally.
 
-![toast](reference.png)
+![toast](readfile.png)
 
 The toast shows the pusher's name on the title line and their commit subject underneath,
 wrapped to two lines and truncated with an ellipsis if it doesn't fit.
